@@ -1,7 +1,5 @@
 numpy==1.26.3
-Pillow==10.2.0
+Pillow  # Allow pip to choose the compatible version
 streamlit==1.30.0
-Pillow==8.4.0  # or the latest compatible version
-tensorflow==2.6.0  # or the latest compatible version
-
-
+tensorflow==2.15.0
+intel-tensorflow  # no specific version, install the latest available
