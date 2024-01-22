@@ -1,3 +1,10 @@
+## The machine learning model has been developed for the PNEUMONIA detection using the chest X-Ray
+
+Through this link:
+https://pneumoniadetection.streamlit.app/ 
+
+
+
 numpy==1.26.3
 Pillow  # Allow pip to choose the compatible version
 streamlit==1.30.0

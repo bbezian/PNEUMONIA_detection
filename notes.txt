@@ -1,0 +1,4 @@
+## The machine learning model has been developed for the PNEUMONIA detection using the chest X-Ray
+
+Through this link:
+https://pneumoniadetection.streamlit.app/ 
